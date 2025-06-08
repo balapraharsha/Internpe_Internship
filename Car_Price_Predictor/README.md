@@ -80,8 +80,8 @@ Diabetes_Prediction/
 
 ## 🔖 Author
 
-Developed by **Mannepalli Bala Praharsha** 
-For queries, feel free to connect via [LinkedIn](https://www.linkedin.com/in/mannepalli-bala-praharsha).
+Developed by **Mannepalli Bala Praharsha** <br>
+For queries, feel free to connect via [LinkedIn](https://www.linkedin.com/in/mannepalli-bala-praharsha).<br>
 Made with ❤️ during my [InternPe](https://internpe.in) internship.
 
 ## 📌 Tags
