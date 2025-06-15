@@ -30,6 +30,18 @@ A regression-based ML model to predict the selling price of a car using features
 
 ---
 
+### 3. 🏏 IPL Score Predictor
+A machine learning model that predicts the final score of an IPL innings based on live match features like current score, wickets, overs, and more.
+
+- Models Used: Linear Regression & Random Forest
+- R² Score (Best): 0.92
+- Features: Venue, Batting/Bowling Teams, Recent Runs, Overs, Wickets
+- Tools: Python, Pandas, Scikit-learn
+
+➡️ [View Project](./IPL_Score_Predictor)
+
+---
+
 ## 🛠️ Tech Stack
 
 - Python 🐍
